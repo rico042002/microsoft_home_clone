@@ -326,6 +326,6 @@ ul {
   }
 
   .xbox .content .btn i {
-    padding-left: -5px;
+    display: none;
   }
 }
